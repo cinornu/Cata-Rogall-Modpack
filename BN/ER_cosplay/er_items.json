@@ -3,7 +3,7 @@
     "id": "hat_debi",
     "copy-from": "hat_ball",
     "type": "ARMOR",
-    "name": { "str": "데비의 모자" },
+    "name": { "str_sp": "데비의 모자" },
     "description": "데비의 검은 야구 모자. 보온에 약간 도움이 됩니다.",
     "flags": [ "HELMET_COMPAT" ]
   },
@@ -11,7 +11,7 @@
     "id": "hat_marlene",
     "copy-from": "hat_ball",
     "type": "ARMOR",
-    "name": { "str": "마를렌의 모자" },
+    "name": { "str_sp": "마를렌의 모자" },
     "description": "마를렌의 흰 야구 모자. 보온에 약간 도움이 됩니다.",
     "flags": [ "HELMET_COMPAT" ]
   },
@@ -38,5 +38,25 @@
     "autolearn": true,
     "using": [ [ "sewing_standard", 10 ] ],
     "components": [ [ [ "rag", 4 ] ] ]
+  },
+  {
+    "id": "goeremsuit",
+    "copy-from": "wolfsuit",
+    "type": "ARMOR",
+    "name": { "str_sp": "괴렘 슈트" },
+    "description": "뚱뚱하고 커다란 귀 없는 너구리.. 아니, 고양이 슈트입니다. 이 모습이어도 좋아해줄 거죠?",
+    "flags": [ "HELMET_COMPAT" ]
+  },
+  {
+    "result": "goeremsuit",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_SUIT",
+    "skill_used": "tailor",
+    "difficulty": 7,
+    "time": "5 h",
+    "autolearn": true,
+    "using": [ [ "sewing_standard", 200 ] ],
+    "components": [ [ [ "faux_fur", 30 ], [ "rag", 30 ] ] ]
   }
 ]

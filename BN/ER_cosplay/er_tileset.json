@@ -54,8 +54,10 @@
           { "id": "overlay_female_mutation_hair_charlotte", "fg": 12, "rotates": false },
           { "id": "overlay_female_mutation_hair_jackie", "fg": 13, "rotates": false },
           { "id": "hat_debi", "fg": 14, "rotates": false },
+		  { "id": "overlay_wielded_hat_debi", "fg": 14, "rotates": false },
           { "id": "overlay_worn_hat_debi", "fg": 15, "rotates": false },
           { "id": "hat_marlene", "fg": 16, "rotates": false },
+		  { "id": "overlay_wielded_hat_marlene", "fg": 16, "rotates": false },
           { "id": "overlay_worn_hat_marlene", "fg": 17, "rotates": false },
           { "id": "player_female", "fg": 18, "bg": 88, "rotates": false },
           { "id": "npc_female", "fg": 18, "bg": 88, "rotates": false },
@@ -159,7 +161,10 @@
           { "id": "overlay_worn_blindfold", "fg": 87, "rotates": false },
           { "id": "overlay_mutation_bio_infrared", "fg": 89, "rotates": false },
           { "id": "overlay_mutation_bio_night_vision", "fg": 90, "rotates": false },
-          { "id": "overlay_mutation_bio_sunglasses", "fg": 91, "rotates": false }
+          { "id": "overlay_mutation_bio_sunglasses", "fg": 91, "rotates": false },
+		  { "id": "goeremsuit", "fg": 92, "rotates": false },
+		  { "id": "overlay_wielded_goeremsuit", "fg": 92, "rotates": false },
+          { "id": "overlay_worn_goeremsuit", "fg": 93, "rotates": false }
         ]
       }
     ]
