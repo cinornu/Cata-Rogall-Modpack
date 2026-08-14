@@ -2848,7 +2848,7 @@
     "batch_time_factors": [ 20, 5 ],
     "autolearn": true,
     "using": [ [ "serum_production_standard", 37 ] ],
-    "components": [ [ [ "iv_mutagen_fish", 2 ] ], [ [ "iv_purifier", 1 ] ] ],
+    "components": [ [ [ "iv_mutagen_lupine", 2 ] ], [ [ "iv_purifier", 1 ] ] ],
     "flags": [ "SECRET" ]
   },
   {

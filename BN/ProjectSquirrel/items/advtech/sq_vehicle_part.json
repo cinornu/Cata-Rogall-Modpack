@@ -289,7 +289,8 @@
       "removal": { "skills": [ [ "mechanics", 1 ] ], "time": "30 m", "using": [ [ "vehicle_bolt", 1 ] ] },
       "repair": { "skills": [ [ "mechanics", 2 ] ], "time": "60 m", "using": [ [ "welding_standard", 10 ] ] }
     },
-    "flags": [ "CARGO", "OBSTACLE", "FLAT_SURF", "WELDRIG", "WORKBENCH" ],
+    "flags": [ "CARGO", "OBSTACLE", "FLAT_SURF", "WELDRIG", "WORKBENCH", "CRAFTER" ],
+	"integrated_tools": [ "soldering_iron", "welder" ],
     "breaks_into": [
       { "item": "pipe", "count": [ 4, 6 ] },
       { "item": "sheet_metal", "count": [ 0, 1 ] },
@@ -956,7 +957,7 @@
   {
     "abstract": "sq_carbide_hdboard",
     "type": "vehicle_part",
-    "name": { "str": "layered carbide plates" },
+    "name": { "str": "layered carbide board" },
     "item": "sq_carbide_frame",
     "location": "center",
     "color": "dark_gray",

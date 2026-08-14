@@ -501,10 +501,10 @@
             "multitile": true,
             "additional_tiles": [ { "id": "broken", "fg": 212, "bg": 214 } ]
           },
-		  { "id": "sq_portable_hydraulic_press", "fg": 216, "rotates": false },
-		  { "id": "overlay_wielded_sq_portable_hydraulic_press", "fg": 216, "rotates": false },
-		  { "id": "sq_hardlight_toolset", "fg": 217, "rotates": false },
-		  { "id": "overlay_wielded_sq_hardlight_toolset", "fg": 218, "rotates": false },
+          { "id": "sq_portable_hydraulic_press", "fg": 216, "rotates": false },
+          { "id": "overlay_wielded_sq_portable_hydraulic_press", "fg": 216, "rotates": false },
+          { "id": "sq_hardlight_toolset", "fg": 217, "rotates": false },
+          { "id": "overlay_wielded_sq_hardlight_toolset", "fg": 218, "rotates": false },
           { "id": "sq_9mm_vertigon", "fg": 219, "rotates": false },
           { "id": "overlay_wielded_sq_9mm_vertigon", "fg": 219, "rotates": false },
           { "id": "overlay_worn_sq_9mm_vertigon", "fg": 219, "rotates": false },
@@ -520,7 +520,7 @@
           { "id": "sq_vertigon_rail", "fg": 223, "rotates": false },
           { "id": "overlay_wielded_sq_vertigon_rail", "fg": 223, "rotates": false },
           { "id": "overlay_worn_sq_vertigon_rail", "fg": 223, "rotates": false },
-		  { "id": "sq_space_anomaly_heavy", "fg": 224, "rotates": false },
+          { "id": "sq_space_anomaly_heavy", "fg": 224, "rotates": false },
           { "id": "overlay_wielded_sq_space_anomaly_heavy", "fg": 224 },
           {
             "id": "vp_sq_space_anomaly_heavy",
@@ -529,7 +529,7 @@
             "multitile": true,
             "additional_tiles": [ { "id": "broken", "fg": 212, "bg": 225 } ]
           },
-		  { "id": "sq_space_anomaly_light", "fg": 225, "rotates": false },
+          { "id": "sq_space_anomaly_light", "fg": 225, "rotates": false },
           { "id": "overlay_wielded_sq_space_anomaly_light", "fg": 225 },
           {
             "id": "vp_sq_space_anomaly_light",
@@ -538,7 +538,7 @@
             "multitile": true,
             "additional_tiles": [ { "id": "broken", "fg": 212, "bg": 225 } ]
           },
-		  { "id": "sq_megafreezer", "fg": 226, "rotates": false },
+          { "id": "sq_megafreezer", "fg": 226, "rotates": false },
           { "id": "overlay_wielded_sq_megafreezer", "fg": 226 },
           {
             "id": "vp_sq_megafreezer",
@@ -550,37 +550,37 @@
           { "id": "overlay_wielded_sq_portable_autodoc", "fg": 228, "rotates": false },
           { "id": "sq_portable_autodoc", "fg": 228, "rotates": false },
           { "id": "sq_f_portable_autodoc", "fg": 228, "rotates": false },
-		  { "id": "sq_frozen_core_fragments", "fg": 229, "rotates": false },
+          { "id": "sq_frozen_core_fragments", "fg": 229, "rotates": false },
           { "id": "overlay_wielded_sq_frozen_core_fragments", "fg": 229, "rotates": false },
-		  { "id": "sq_frozen_core", "fg": 230, "rotates": false },
+          { "id": "sq_frozen_core", "fg": 230, "rotates": false },
           { "id": "overlay_wielded_sq_frozen_core", "fg": 230, "rotates": false },
-		  { "id": "sq_frost_dagger", "fg": 231, "rotates": false },
+          { "id": "sq_frost_dagger", "fg": 231, "rotates": false },
           { "id": "overlay_wielded_sq_frost_dagger", "fg": 232, "rotates": false },
           { "id": "sq_frost_sword", "fg": 233, "rotates": false },
           { "id": "overlay_wielded_sq_frost_sword", "fg": 234, "rotates": false },
-		  { "id": "sq_frost_spear", "fg": 235, "rotates": false },
+          { "id": "sq_frost_spear", "fg": 235, "rotates": false },
           { "id": "overlay_wielded_sq_frost_spear", "fg": 236, "rotates": false },
-		  { "id": "sq_frost_axe", "fg": 237, "rotates": false },
+          { "id": "sq_frost_axe", "fg": 237, "rotates": false },
           { "id": "overlay_wielded_sq_frost_axe", "fg": 238, "rotates": false },
-		  { "id": "sq_frost_greatsword", "fg": 239, "rotates": false },
+          { "id": "sq_frost_greatsword", "fg": 239, "rotates": false },
           { "id": "overlay_wielded_sq_frost_greatsword", "fg": 240, "rotates": false },
-		  { "id": "sq_cryo_dagger_off", "fg": 241, "rotates": false },
+          { "id": "sq_cryo_dagger_off", "fg": 241, "rotates": false },
           { "id": "overlay_wielded_sq_cryo_dagger_off", "fg": 242, "rotates": false },
-		  { "id": "sq_cryo_dagger_on", "fg": 243, "rotates": false },
+          { "id": "sq_cryo_dagger_on", "fg": 243, "rotates": false },
           { "id": "overlay_wielded_sq_cryo_dagger_on", "fg": 244, "rotates": false },
-		  { "id": "sq_cryo_sword_off", "fg": 245, "rotates": false },
+          { "id": "sq_cryo_sword_off", "fg": 245, "rotates": false },
           { "id": "overlay_wielded_sq_cryo_sword_off", "fg": 246, "rotates": false },
-		  { "id": "sq_cryo_sword_on", "fg": 247, "rotates": false },
+          { "id": "sq_cryo_sword_on", "fg": 247, "rotates": false },
           { "id": "overlay_wielded_sq_cryo_sword_on", "fg": 248, "rotates": false },
-		  { "id": "sq_cryo_spear_off", "fg": 249, "rotates": false },
-		  { "id": "sq_cryo_spear_on", "fg": 250, "rotates": false },
-		  { "id": "sq_cryo_greatsword_off", "fg": 251, "rotates": false },
+          { "id": "sq_cryo_spear_off", "fg": 249, "rotates": false },
+          { "id": "sq_cryo_spear_on", "fg": 250, "rotates": false },
+          { "id": "sq_cryo_greatsword_off", "fg": 251, "rotates": false },
           { "id": "overlay_wielded_sq_cryo_greatsword_off", "fg": 252, "rotates": false },
-		  { "id": "sq_cryo_greatsword_on", "fg": 253, "rotates": false },
+          { "id": "sq_cryo_greatsword_on", "fg": 253, "rotates": false },
           { "id": "overlay_wielded_sq_cryo_greatsword_on", "fg": 254, "rotates": false },
           { "id": "sq_frozen_heart", "fg": 255, "rotates": false },
           { "id": "overlay_wielded_sq_frozen_heart", "fg": 255, "rotates": false },
-		  { "id": "sq_9mm_frost", "fg": 256, "rotates": false },
+          { "id": "sq_9mm_frost", "fg": 256, "rotates": false },
           { "id": "overlay_wielded_sq_9mm_frost", "fg": 256, "rotates": false },
           { "id": "sq_556_frost", "fg": 257, "rotates": false },
           { "id": "overlay_wielded_sq_556_frost", "fg": 257, "rotates": false },
@@ -590,7 +590,7 @@
           { "id": "overlay_wielded_sq_50bmg_frost", "fg": 259, "rotates": false },
           { "id": "sq_arrow_frost", "fg": 260, "rotates": false },
           { "id": "overlay_wielded_sq_arrow_frost", "fg": 260, "rotates": false },
-		  { "id": "sq_space_anomaly_freezer", "fg": 261, "rotates": false },
+          { "id": "sq_space_anomaly_freezer", "fg": 261, "rotates": false },
           { "id": "overlay_wielded_sq_space_anomaly_freezer", "fg": 261 },
           {
             "id": "vp_sq_space_anomaly_freezer",
@@ -599,7 +599,7 @@
             "multitile": true,
             "additional_tiles": [ { "id": "broken", "fg": 262 } ]
           },
-		  { "id": "t_pd_border", "fg": 263, "rotates": false }
+          { "id": "t_pd_border", "fg": 263, "rotates": false }
         ],
         "sprite_width": 32,
         "sprite_height": 32,
@@ -607,5 +607,9 @@
         "sprite_offset_y": 0
       }
     ]
+  },
+  {
+    "type": "overlay_order",
+    "overlay_ordering": [ { "id": [ "overlay_wielded_sq_frost_greatsword" ], "order": 1 } ]
   }
 ]

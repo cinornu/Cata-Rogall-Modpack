@@ -258,7 +258,6 @@
     "melee_dice": 2,
     "melee_dice_sides": 4,
     "armor_fire": 0,
-    "emit_fields": [ { "emit_id": "emit_winter_waker_aura", "delay": "1 s" } ],
     "special_attacks": [
       {
         "type": "gun",
@@ -297,7 +296,7 @@
     "melee_dice": 4,
     "melee_dice_sides": 8,
     "melee_cut": 12,
-    "emit_fields": [ { "emit_id": "emit_winter_waker_aura", "delay": "1 s" }, { "emit_id": "emit_winter_waker_blizzard", "delay": "2 s" } ],
+    "emit_fields": [ { "emit_id": "emit_winter_waker_blizzard", "delay": "2 s" } ],
     "special_attacks": [
       {
         "type": "gun",
@@ -331,7 +330,7 @@
     "hp": 125,
     "melee_damage": [ { "damage_type": "cold", "amount": 6 } ],
     "armor_fire": 0,
-    "emit_fields": [ { "emit_id": "emit_winter_waker_aura", "delay": "1 s" }, { "emit_id": "emit_winter_waker_blizzard", "delay": "1 s" } ],
+    "emit_fields": [ { "emit_id": "emit_winter_waker_blizzard", "delay": "2 s" } ],
     "special_attacks": [
       {
         "type": "spell",
