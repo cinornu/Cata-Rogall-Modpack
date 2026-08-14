@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Jake's_Squirrel_mod\n"
-"POT-Creation-Date: 2026-07-10 12:58+0900\n"
+"POT-Creation-Date: 2026-08-15 02:18+0900\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -939,7 +939,9 @@ msgid ""
 "topographical data points to an isolated region of absolute zero. Activating"
 " the map will peel back the veil of reality, forcing a passage into the "
 "frozen abyss where the dragon waits. If this map is destroyed, the pocket "
-"dimension connected to it will also collapses."
+"dimension connected to it will also collapses. (DO NOT SAVE while inside a "
+"pocket dimension. Otherwise, you'll be trapped inside forever. Please turn "
+"off the auto-save.)"
 msgstr ""
 
 #: .\items\advtech\sq_frost_tier.json
@@ -3554,7 +3556,11 @@ msgid ""
 "collisions."
 msgstr ""
 
-#. ~ Description for {'str': 'layered carbide plates'}
+#: .\items\advtech\sq_vehicle_part.json
+msgid "layered carbide board"
+msgstr ""
+
+#. ~ Description for {'str': 'layered carbide board'}
 #: .\items\advtech\sq_vehicle_part.json
 msgid ""
 "A strong layered carbide wall. Keeps zombies outside the vehicle and "
@@ -4823,6 +4829,817 @@ msgid ""
 "disassembled or reused."
 msgstr ""
 
+#: .\items\item_common\sq_mil_armor.json
+msgid "Tac-Kek MT replica helmet"
+msgid_plural "Tac-Kek MT replica helmets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Tac-Kek MT replica helmet'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"A cheap plastic replica of the FAST MT helmet. It offers absolutely zero "
+"ballistic protection and is only good for bumping your head against a low "
+"ceiling. At least it looks cool."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "Kolpak-1S riot helmet"
+msgid_plural "Kolpak-1S riot helmets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Kolpak-1S riot helmet'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"An outdated riot helmet with a polycarbonate visor. It might stop a thrown "
+"rock or a very weak pistol round, but it severely muffles your hearing. Pure"
+" garbage for desperate survivors."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "PSSh-97 Jeta helmet"
+msgid_plural "PSSh-97 Jeta helmets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'PSSh-97 Jeta helmet'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"An old police helmet used for riot control. Slightly better than the Kolpak,"
+" but still fundamentally a piece of junk on a battlefield."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "SSh-68 steel bowl"
+msgid_plural "SSh-68 steel bowls"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'SSh-68 steel bowl'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"An old Soviet steel helmet. It's colloquially known as the 'steel bowl'. It "
+"provides basic protection and might deflect a lucky shot."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "6B47 Ratnik-BSh"
+msgid_plural "6B47 Ratnik-BShs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '6B47 Ratnik-BSh'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"A modern Russian military helmet made of aramid materials. Lightweight and "
+"reliable."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "MICH-2000 helmet"
+msgid_plural "MICH-2000 helmets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'MICH-2000 helmet'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"The Modular Integrated Communications Helmet. A standard western ballistic "
+"helmet."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "ACH helmet"
+msgid_plural "ACH helmets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'ACH helmet'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"Advanced Combat Helmet. A slightly lighter and more protective evolution of "
+"the MICH design."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "Kiver-M helmet"
+msgid_plural "Kiver-M helmets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Kiver-M helmet'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"A Russian protective helmet with an attachable face shield mounting point. "
+"Offers great coverage but dampens hearing significantly."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "ZSh-1-2M helmet"
+msgid_plural "ZSh-1-2M helmets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'ZSh-1-2M helmet'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"A heavy Russian assault helmet. Provides excellent protection at the cost of"
+" hearing and situational awareness."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "FAST MT helmet"
+msgid_plural "FAST MT helmets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'FAST MT helmet'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"A high-cut modular ballistic helmet. It sacrifices ear protection for "
+"compatibility with communication headsets and absolute minimal encumbrance."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "Highcom Striker ULACH"
+msgid_plural "Highcom Striker ULACHs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Highcom Striker ULACH'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"An ultra-lightweight advanced combat helmet offering excellent protection "
+"and ear coverage without dampening your hearing. A favorite among seasoned "
+"operators."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "AirFrame helmet"
+msgid_plural "AirFrame helmets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'AirFrame helmet'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"An ultra-light, ventilated ballistic helmet. Exceptional protection with "
+"virtually zero movement restriction."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "Altyn helmet"
+msgid_plural "Altyn helmets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Altyn helmet'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"A legendary heavy titanium helmet. Turns your head into a bunker at the cost"
+" of almost all situational awareness."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "Maska-1Sch helmet"
+msgid_plural "Maska-1Sch helmets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Maska-1Sch helmet'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"A heavy steel helmet with a distinctive face slit, famously worn by a "
+"certain mall-dwelling maniac. Extreme protection, but your hearing is "
+"muffled and breathing is heavy."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "EXFIL ballistic helmet"
+msgid_plural "EXFIL ballistic helmets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'EXFIL ballistic helmet'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"The pinnacle of high-cut ballistic helmets. Incredibly lightweight while "
+"offering top-tier protection for the top of the skull."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "Rys-T helmet"
+msgid_plural "Rys-T helmets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Rys-T helmet'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"An extremely heavy titanium assault helmet with a reinforced face shield. "
+"You are practically deaf, but bulletproof."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "Diamond Age Bastion"
+msgid_plural "Diamond Age Bastions"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Diamond Age Bastion'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"A high-tech ballistic helmet reinforced with a heavy ceramic applique plate "
+"on the top. Light on the ears, but turns the top of your skull into a tank."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "Vulkan-5 heavy helmet"
+msgid_plural "Vulkan-5 heavy helmets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Vulkan-5 heavy helmet'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"An unbelievably thick and heavy armored helmet. The ultimate protection for "
+"your cranium, assuming your neck doesn't snap under the weight."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "Module-3M body armor"
+msgid_plural "Module-3M body armors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Module-3M body armor'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"A heavy, bright white body armor originally designed for police forces. It "
+"offers very low ballistic protection, makes you stick out like a sore thumb,"
+" and weighs a ton. Better than being naked."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "6B2 body armor"
+msgid_plural "6B2 body armors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '6B2 body armor'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"An antique Soviet flak jacket. Made of nylon, cotton, and thin titanium "
+"plates. Offers minimal protection against shrapnel and pistol rounds, but "
+"it's cheap and reliable."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "DRD body armor"
+msgid_plural "DRD body armors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'DRD body armor'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"A low-profile civilian bulletproof vest. Easily concealed under clothing and"
+" offers decent protection against small arms, though it covers very little "
+"surface area."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "PACA soft armor"
+msgid_plural "PACA soft armors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'PACA soft armor'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"Basic soft Kevlar body armor. It will stop pistol rounds, but rifle fire "
+"will punch right through it."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "MF-UNTAR armor vest"
+msgid_plural "MF-UNTAR armor vests"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'MF-UNTAR armor vest'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"A bright blue armored vest used by UN personnel. Offers moderate protection "
+"but makes you stick out like a sore thumb."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "6B23-1 body armor"
+msgid_plural "6B23-1 body armors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '6B23-1 body armor'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"A standard issue Russian military vest with steel plates. Reliable, heavy, "
+"and cumbersome."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "6B13 assault armor"
+msgid_plural "6B13 assault armors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '6B13 assault armor'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"A heavy Russian assault vest featuring ceramic plates. High protection, but "
+"restrictive and hard to repair."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "Trooper plate carrier"
+msgid_plural "Trooper plate carriers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Trooper plate carrier'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"A modern, lightweight plate carrier. Protects the vitals reliably without "
+"restricting your arms."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "BZh-T Gzhel-K"
+msgid_plural "BZh-T Gzhel-Ks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'BZh-T Gzhel-K'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"A heavy ceramic assault vest. It will stop almost any armor-piercing round "
+"once or twice, but shatters completely shortly after. Purely disposable "
+"protection."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "TV-110 armored rig"
+msgid_plural "TV-110 armored rigs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action holster_msg for {'str': 'TV-110 armored rig'}.
+#. ~ Use action holster_msg for {'str': 'AVS armored vest'}.
+#. ~ Use action holster_msg for {'str': 'Ars Arma CPC mod.2'}.
+#. ~ Use action holster_msg for {'str': 'Scav vest'}.
+#. ~ Use action holster_msg for {'str': 'Security vest'}.
+#. ~ Use action holster_msg for {'str': 'Bank Robber chest rig'}.
+#. ~ Use action holster_msg for {'str': 'BlackRock chest rig'}.
+#. ~ Use action holster_msg for {'str': 'Alpha chest rig'}.
+#. ~ Use action holster_msg for {'str': "6B5-16 Zh-86 'Uley' armored rig"}.
+#. ~ Use action holster_msg for {'str': '6B3TM-01M armored rig'}.
+#. ~ Use action holster_msg for {'str': "6B5-15 Zh-86 'Uley' armored rig"}.
+#. ~ Use action holster_msg for {'str': 'ANA Tactical M1 armored rig'}.
+#. ~ Use action holster_msg for {'str': 'ANA Tactical M2 armored rig'}.
+#. ~ Use action holster_msg for {'str': 'Wartech TV-110 armored rig'}.
+#. ~ Use action holster_msg for {'str': 'Eagle Industries MMAC plate
+#. carrier'}.
+#. ~ Use action holster_msg for {'str': '5.11 Tactec plate carrier'}.
+#. ~ Use action holster_msg for {'str': 'Ars Arma A18 Skanda'}.
+#. ~ Use action holster_msg for {'str': 'Crye Precision AVS'}.
+#. ~ Use action holster_msg for {'str': 'CQC Osprey MK4A (Assault)'}.
+#. ~ Use action holster_msg for {'str': 'Ars Arma CPC MOD.2'}.
+#. ~ Use action holster_msg for {'str': 'Crye Precision AVS MBAV'}.
+#. ~ Use action holster_msg for {'str': 'CQC Osprey MK4A (Protection)'}.
+#. ~ Use action holster_msg for {'str': 'tactical shield: commando', 'str_pl':
+#. 'tactical shields: commando'}.
+#: .\items\item_common\sq_mil_armor.json .\items\item_common\sq_shields.json
+msgid "You stash your %s."
+msgstr ""
+
+#. ~ Use action holster_prompt for {'str': 'TV-110 armored rig'}.
+#. ~ Use action holster_prompt for {'str': 'AVS armored vest'}.
+#. ~ Use action holster_prompt for {'str': 'Ars Arma CPC mod.2'}.
+#. ~ Use action holster_prompt for {'str': 'Security vest'}.
+#. ~ Use action holster_prompt for {'str': 'Bank Robber chest rig'}.
+#. ~ Use action holster_prompt for {'str': "6B5-16 Zh-86 'Uley' armored rig"}.
+#. ~ Use action holster_prompt for {'str': '6B3TM-01M armored rig'}.
+#. ~ Use action holster_prompt for {'str': "6B5-15 Zh-86 'Uley' armored rig"}.
+#. ~ Use action holster_prompt for {'str': 'ANA Tactical M1 armored rig'}.
+#. ~ Use action holster_prompt for {'str': 'ANA Tactical M2 armored rig'}.
+#. ~ Use action holster_prompt for {'str': 'Wartech TV-110 armored rig'}.
+#. ~ Use action holster_prompt for {'str': 'Eagle Industries MMAC plate
+#. carrier'}.
+#. ~ Use action holster_prompt for {'str': '5.11 Tactec plate carrier'}.
+#. ~ Use action holster_prompt for {'str': 'Ars Arma A18 Skanda'}.
+#. ~ Use action holster_prompt for {'str': 'Crye Precision AVS'}.
+#. ~ Use action holster_prompt for {'str': 'CQC Osprey MK4A (Assault)'}.
+#. ~ Use action holster_prompt for {'str': 'Ars Arma CPC MOD.2'}.
+#. ~ Use action holster_prompt for {'str': 'Crye Precision AVS MBAV'}.
+#. ~ Use action holster_prompt for {'str': 'CQC Osprey MK4A (Protection)'}.
+#: .\items\item_common\sq_mil_armor.json
+msgid "Stash ammo or magazines"
+msgstr ""
+
+#. ~ Description for {'str': 'TV-110 armored rig'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"A heavy-duty chest rig with integrated armor plates. Excellent protection "
+"and carrying capacity."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "AVS armored vest"
+msgid_plural "AVS armored vests"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'AVS armored vest'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"Adaptive Vest System. A highly modular armored rig that offers great "
+"protection and significant storage for magazines."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "IOTV Gen4 assault"
+msgid_plural "IOTV Gen4 assaults"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'IOTV Gen4 assault'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"A comprehensive ballistic vest offering extensive coverage over the torso, "
+"neck, and groin. Very protective, very heavy."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "Fort Defender-2"
+msgid_plural "Fort Defender-2s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Fort Defender-2'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"A heavy Russian tactical vest used by assault teams. Bulky, heavy, but "
+"extremely difficult to penetrate."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "6B13 M assault armor"
+msgid_plural "6B13 M assault armors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '6B13 M assault armor'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"A heavily modified version of the standard 6B13, featuring ultra-high-"
+"molecular-weight polyethylene plates instead of ceramic. Unbelievably "
+"durable, repairable, and painted with three white stripes."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "Ars Arma CPC mod.2"
+msgid_plural "Ars Arma CPC mod.2s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Ars Arma CPC mod.2'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"A high-end plate carrier integrated with a tactical rig. Offers top-tier "
+"polyethylene ballistic protection and exceptional ergonomics for operators."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "Slick plate carrier"
+msgid_plural "Slick plate carriers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Slick plate carrier'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"A minimalist plate carrier utilizing ultra-high-molecular-weight "
+"polyethylene plates. Extreme protection for the vitals with almost no "
+"movement penalty, but leaves your sides exposed."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "Zhuk-6a heavy armor"
+msgid_plural "Zhuk-6a heavy armors"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Zhuk-6a heavy armor'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"The absolute peak of ceramic plate protection. Thick, heavy, and "
+"impenetrable to all but the most specialized munitions. Once it breaks, it's"
+" garbage."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "Hexgrid plate carrier"
+msgid_plural "Hexgrid plate carriers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Hexgrid plate carrier'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"A state-of-the-art plate carrier featuring a hexagonal grid structure. "
+"Offers the pinnacle of ballistic protection while being incredibly light and"
+" unrestrictive."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "6B43 Zabralo-Sh"
+msgid_plural "6B43 Zabralo-Shs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '6B43 Zabralo-Sh'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"An absolute behemoth of an assault armor set. You are essentially a walking "
+"tank. Your mobility is completely ruined, but almost nothing short of an "
+"anti-materiel rifle will pierce your chest."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "Scav vest"
+msgid_plural "Scav vests"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action holster_prompt for {'str': 'Scav vest'}.
+#: .\items\item_common\sq_mil_armor.json
+msgid "Stash ammo or items"
+msgstr ""
+
+#. ~ Description for {'str': 'Scav vest'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"A cheap, poorly made civilian hunting vest. Barely holds a couple of "
+"magazines and a half-eaten chocolate bar. The hallmark of a bottom-feeder."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "Security vest"
+msgid_plural "Security vests"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Security vest'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"A basic tactical vest worn by private security guards. Has just enough "
+"pouches for a standard patrol, but don't expect to carry a war's worth of "
+"gear in it."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "Bank Robber chest rig"
+msgid_plural "Bank Robber chest rigs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Bank Robber chest rig'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"A minimal, lightweight chest rig for carrying a few magazines. Offers zero "
+"ballistic protection. Better than stuffing magazines in your pockets."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "BlackRock chest rig"
+msgid_plural "BlackRock chest rigs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action holster_prompt for {'str': 'BlackRock chest rig'}.
+#. ~ Use action holster_prompt for {'str': 'Alpha chest rig'}.
+#: .\items\item_common\sq_mil_armor.json
+msgid "Stash ammo, magazines, or gear"
+msgstr ""
+
+#. ~ Description for {'str': 'BlackRock chest rig'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"A highly versatile, unarmored tactical rig with numerous pouches. Favored by"
+" scavs and PMCs alike for its massive storage capacity."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "Alpha chest rig"
+msgid_plural "Alpha chest rigs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Alpha chest rig'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"An enormous unarmored chest rig designed for heavy gunners and squad "
+"leaders. It can hold a staggering amount of magazines and utility items."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "6B5-16 Zh-86 'Uley' armored rig"
+msgid_plural "6B5-16 Zh-86 'Uley' armored rigs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "6B5-16 Zh-86 'Uley' armored rig"}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"An old Soviet armored chest rig. Offers basic titanium plate protection and "
+"minimal storage. A heavy, outdated relic for desperate scavengers."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "6B3TM-01M armored rig"
+msgid_plural "6B3TM-01M armored rigs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '6B3TM-01M armored rig'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"A classic Russian flak jacket combined with titanium armor plates and "
+"magazine pouches. Extremely heavy and restrictive, but surprisingly durable."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "6B5-15 Zh-86 'Uley' armored rig"
+msgid_plural "6B5-15 Zh-86 'Uley' armored rigs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': "6B5-15 Zh-86 'Uley' armored rig"}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"The ceramic plate variant of the Uley rig. Better ballistic protection than "
+"its titanium counterpart, but significantly harder to repair once shattered."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "ANA Tactical M1 armored rig"
+msgid_plural "ANA Tactical M1 armored rigs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'ANA Tactical M1 armored rig'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"A robust, steel-plated tactical rig. Favored by PMCs for its balance of high"
+" durability, decent protection, and massive carrying capacity."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "ANA Tactical M2 armored rig"
+msgid_plural "ANA Tactical M2 armored rigs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'ANA Tactical M2 armored rig'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"An upgraded version of the M1 rig with slightly different pouch "
+"configurations. Heavy steel plates make it a reliable workhorse in extended "
+"firefights."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "Wartech TV-110 armored rig"
+msgid_plural "Wartech TV-110 armored rigs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Wartech TV-110 armored rig'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"A heavy-duty chest rig with integrated steel armor plates. Excellent mid-"
+"tier protection and extensive carrying capacity."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "Eagle Industries MMAC plate carrier"
+msgid_plural "Eagle Industries MMAC plate carriers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Eagle Industries MMAC plate carrier'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"Multi-Mission Armor Carrier. A lightweight polyethylene rig favored by "
+"western operators. Highly ergonomic, but carrying capacity is strictly "
+"tactical."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "5.11 Tactec plate carrier"
+msgid_plural "5.11 Tactec plate carriers"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': '5.11 Tactec plate carrier'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"An ultra-lightweight polyethylene carrier protecting only the critical "
+"thorax area. Extremely mobile, but leaves your stomach entirely exposed."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "Ars Arma A18 Skanda"
+msgid_plural "Ars Arma A18 Skandas"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Ars Arma A18 Skanda'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"A high-quality Russian plate carrier loaded with polyethylene plates. "
+"Fantastic protection-to-weight ratio and abundant storage space."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "Crye Precision AVS"
+msgid_plural "Crye Precision AVSs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Crye Precision AVS'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"Adaptive Vest System. A highly modular armored rig loaded with heavy ceramic"
+" plates. Excellent protection and massive storage capacity."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "CQC Osprey MK4A (Assault)"
+msgid_plural "CQC Osprey MK4A (Assault)s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'CQC Osprey MK4A (Assault)'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"British modular body armor in the assault configuration. Features extended "
+"arm coverage and thick polyethylene plates."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "Ars Arma CPC MOD.2"
+msgid_plural "Ars Arma CPC MOD.2s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Ars Arma CPC MOD.2'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"A top-tier heavy plate carrier integrated with a tactical rig. Offers "
+"exceptional high-level polyethylene ballistic protection and ergonomics for "
+"operators."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "Crye Precision AVS MBAV"
+msgid_plural "Crye Precision AVS MBAVs"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'Crye Precision AVS MBAV'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"The ultimate configuration of the AVS system, loaded with thick, high-"
+"density ceramic plates. Offers supreme stopping power with massive modular "
+"storage."
+msgstr ""
+
+#: .\items\item_common\sq_mil_armor.json
+msgid "CQC Osprey MK4A (Protection)"
+msgid_plural "CQC Osprey MK4A (Protection)s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'CQC Osprey MK4A (Protection)'}
+#: .\items\item_common\sq_mil_armor.json
+msgid ""
+"The absolute juggernaut configuration of the Osprey system. Features full "
+"neck and arm soft armor combined with heavy composite plates. Mobility is "
+"dead, but so are your enemies."
+msgstr ""
+
 #: .\items\item_common\sq_nomex_survivor.json
 msgid "survivor fireproof canteen"
 msgid_plural "survivor fireproof canteens"
@@ -5464,12 +6281,6 @@ msgid "tactical shield: commando"
 msgid_plural "tactical shields: commando"
 msgstr[0] ""
 msgstr[1] ""
-
-#. ~ Use action holster_msg for {'str': 'tactical shield: commando', 'str_pl':
-#. 'tactical shields: commando'}.
-#: .\items\item_common\sq_shields.json
-msgid "You stash your %s."
-msgstr ""
 
 #. ~ Use action holster_prompt for {'str': 'tactical shield: commando',
 #. 'str_pl': 'tactical shields: commando'}.
