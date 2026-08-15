@@ -60,7 +60,7 @@
     "count": 1,
     "stack_size": 1,
 	"ammo_type": "components",
-    "artifact_data": { "effects_carried": [ "AEP_SPLIT", "AEP_SCHIZO", "AEP_ATTENTION" ] },
+    "artifact_data": { "effects_carried": [ "AEP_SPLIT", "AEP_SCHIZO" ] },
     "flags": [ "NO_SALVAGE" ]
   },
   {
