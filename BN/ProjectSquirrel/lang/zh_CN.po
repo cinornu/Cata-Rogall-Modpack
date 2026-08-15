@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Jake's_Squirrel_mod\n"
-"POT-Creation-Date: 2026-08-15 02:18+0900\n"
+"POT-Creation-Date: 2026-08-15 21:39+0900\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -3023,6 +3023,20 @@ msgid ""
 msgstr "强化层压碳化物装甲板，可用于制作或修理由层压碳化物制成的高科技设备。"
 
 #: .\items\advtech\sq_nano_generic_comp.json
+msgid "Vertigon Attention"
+msgstr "对反重力素的关注"
+
+#. ~ Description for {'str': 'Vertigon Attention'}
+#: .\items\advtech\sq_nano_generic_comp.json
+msgid ""
+"You carry the Vertigon, and the entities from the beyond can smell it. They "
+"fix their eerie, relentless gaze upon you, hungering to tear the stolen "
+"power right out of your flesh."
+msgstr ""
+"你身上带着一件“反重力素”，来自异界的存在能感知到它的存在。它们用那诡异而执着"
+"的目光紧盯着你，迫不及待地想要从你的血肉之躯中夺走那被窃取的力量。"
+
+#: .\items\advtech\sq_nano_generic_comp.json
 msgid "vertigon"
 msgid_plural "vertigons"
 msgstr[0] "反重力素"
@@ -3731,11 +3745,8 @@ msgstr ""
 "寸。增加的质量使其在碰撞中更能抵抗伤害。"
 
 #: .\items\advtech\sq_vehicle_part.json
-#, fuzzy
-#| msgid "layered carbide"
-#| msgid_plural "layered carbides"
 msgid "layered carbide board"
-msgstr "层状碳化物"
+msgstr "层状碳化物板"
 
 #. ~ Description for {'str': 'layered carbide board'}
 #: .\items\advtech\sq_vehicle_part.json
@@ -3831,7 +3842,7 @@ msgstr "维度撕裂"
 
 #: .\items\advtech\sq_vertigon_tier.json
 msgid "vertigon rupture"
-msgstr "旋涡合金破裂"
+msgstr "旋涡破裂"
 
 #: .\items\advtech\sq_vertigon_tier.json
 msgid "9x19mm VCP"

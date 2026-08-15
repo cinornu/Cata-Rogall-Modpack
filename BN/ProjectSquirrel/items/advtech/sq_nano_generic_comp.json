@@ -44,6 +44,18 @@
     "flags": [ "NO_SALVAGE" ]
   },
   {
+    "type": "mutation",
+    "id": "SQ_VERTIGON_ATTENTION",
+    "name": { "str": "Vertigon Attention" },
+    "mixed_effect": true,
+    "starting_trait": false,
+    "valid": false,
+    "purifiable": false,
+    "points": 0,
+    "description": "You carry the Vertigon, and the entities from the beyond can smell it. They fix their eerie, relentless gaze upon you, hungering to tear the stolen power right out of your flesh.",
+    "anger_relations": [ [ "NETHER", 100 ], [ "HORROR", 100 ], [ "ABERRATION", 100 ], [ "BLOB", 100 ] ]
+  },
+  {
     "id": "vertigon",
     "type": "AMMO",
     "category": "artifacts",
@@ -61,6 +73,15 @@
     "stack_size": 1,
 	"ammo_type": "components",
     "artifact_data": { "effects_carried": [ "AEP_SPLIT", "AEP_SCHIZO" ] },
+	"relic_data": {
+      "passive_effects": [
+        {
+          "has": "HELD",
+          "condition": "ALWAYS",
+          "mutations": [ "SQ_VERTIGON_ATTENTION" ]
+        }
+      ]
+    },
     "flags": [ "NO_SALVAGE" ]
   },
   {

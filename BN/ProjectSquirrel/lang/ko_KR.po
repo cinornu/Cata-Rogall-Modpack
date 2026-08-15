@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Jake's_Squirrel_mod\n"
-"POT-Creation-Date: 2026-08-15 02:18+0900\n"
+"POT-Creation-Date: 2026-08-15 21:39+0900\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -3161,6 +3161,21 @@ msgid ""
 msgstr ""
 "강화된 겹층 탄화물 장갑판. 겹층 탄화물로 만들어진 최첨단 장비를 제작하거나 수"
 "리할 때 사용할 수 있습니다."
+
+#: .\items\advtech\sq_nano_generic_comp.json
+msgid "Vertigon Attention"
+msgstr "베르티곤의 시선"
+
+#. ~ Description for {'str': 'Vertigon Attention'}
+#: .\items\advtech\sq_nano_generic_comp.json
+msgid ""
+"You carry the Vertigon, and the entities from the beyond can smell it. They "
+"fix their eerie, relentless gaze upon you, hungering to tear the stolen "
+"power right out of your flesh."
+msgstr ""
+"당신은 베르티곤을 품고 있으며, 이계의 존재들은 그 기운을 똑똑히 감지하고 있습"
+"니다. 놈들은 당신에게 섬뜩한 시선을 고정하며, 당신이 탈취한 그 힘을 당신의 살"
+"점과 함께 뜯어내어 되찾으려 합니다."
 
 #: .\items\advtech\sq_nano_generic_comp.json
 msgid "vertigon"

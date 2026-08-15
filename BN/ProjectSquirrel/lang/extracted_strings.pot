@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Jake's_Squirrel_mod\n"
-"POT-Creation-Date: 2026-08-15 02:18+0900\n"
+"POT-Creation-Date: 2026-08-15 21:39+0900\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2866,6 +2866,18 @@ msgstr[1] ""
 msgid ""
 "Reinforced layered carbide armor plates, which can be used to craft or "
 "repair high-tech equipment made of layered carbide."
+msgstr ""
+
+#: .\items\advtech\sq_nano_generic_comp.json
+msgid "Vertigon Attention"
+msgstr ""
+
+#. ~ Description for {'str': 'Vertigon Attention'}
+#: .\items\advtech\sq_nano_generic_comp.json
+msgid ""
+"You carry the Vertigon, and the entities from the beyond can smell it. They "
+"fix their eerie, relentless gaze upon you, hungering to tear the stolen "
+"power right out of your flesh."
 msgstr ""
 
 #: .\items\advtech\sq_nano_generic_comp.json
