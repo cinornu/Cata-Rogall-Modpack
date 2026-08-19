@@ -1865,14 +1865,14 @@
     "type": "mutation",
     "id": "TAIL_SNAKE",
     "copy-from": "TAIL_SNAKE",
-	"delete": { "restricts_gear": [ "leg_l", "leg_r", "foot_l", "foot_r" ] },
+	"delete": { "restricts_gear": [ "leg_l", "leg_r", "foot_l", "foot_r" ], "allowed_items": [ "ALLOWS_TAIL_SNAKE" ], "allowed_items_only": true },
     "extend": { "category": [ "TAIL_SNAKE" ] }
   },
   {
     "type": "mutation",
     "id": "TAIL_SNAKE_OK",
     "copy-from": "TAIL_SNAKE_OK",
-	"delete": { "restricts_gear": [ "leg_l", "leg_r", "foot_l", "foot_r" ] },
+	"delete": { "restricts_gear": [ "leg_l", "leg_r", "foot_l", "foot_r" ], "allowed_items": [ "ALLOWS_TAIL_SNAKE" ], "allowed_items_only": true },
     "extend": { "category": [ "TAIL_SNAKE_OK" ] }
   },
   {
