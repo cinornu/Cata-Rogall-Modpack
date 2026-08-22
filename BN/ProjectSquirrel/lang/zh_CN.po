@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Jake's_Squirrel_mod\n"
-"POT-Creation-Date: 2026-08-15 21:39+0900\n"
+"POT-Creation-Date: 2026-08-23 01:33+0900\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -965,6 +965,45 @@ msgstr ""
 "地图将揭开现实的面纱，强行打开通往巨龙等待的冰冻深渊的通道。如果这张地图被摧"
 "毁，与之相连的口袋维度也将崩塌。（在口袋维度内请勿保存。否则，你会永远被困在"
 "里面。请关闭自动保存功能。）"
+
+#: .\items\advtech\sq_frost_tier.json
+msgid "permafrost beacon"
+msgid_plural "permafrost beacons"
+msgstr[0] "永久冻土诱饵"
+
+#. ~ Use action friendly_msg for {'str': 'permafrost beacon', 'str_pl':
+#. 'permafrost beacons'}.
+#: .\items\advtech\sq_frost_tier.json
+msgid "ERROR: THIS SHOULD NOT HAPPEN."
+msgstr "如果您看到这条信息，说明存在程序错误。"
+
+#. ~ Use action hostile_msg for {'str': 'permafrost beacon', 'str_pl':
+#. 'permafrost beacons'}.
+#: .\items\advtech\sq_frost_tier.json
+msgid ""
+"You crush the beacon! The sickening scent of frozen decay fills the air, and "
+"the Permafrost Dragon descends in a blinding blizzard!"
+msgstr ""
+"你碾碎了诱饵！空气中弥漫着令人作呕的冰冻腐烂气味，永冻层巨龙在刺眼的暴风雪中"
+"俯冲而下！"
+
+#. ~ Description for {'str': 'permafrost beacon', 'str_pl': 'permafrost
+#. beacons'}
+#: .\items\advtech\sq_frost_tier.json
+msgid ""
+"A grotesque, blasphemous lure crafted from tainted flesh, pheromones, and "
+"pulsating frozen shards. Crushing it unleashes a concentrated, sickening "
+"scent of frostbitten decay that forcefully tears the spatial veil, dragging "
+"the Permafrost Dragon from its abyss. The scent takes time to fully saturate "
+"the air. Once the predator catches the scent, it will descend with absolute "
+"zero hostility to tear you apart. There is no running. Prepare for a "
+"bloodbath."
+msgstr ""
+"这是一种由污秽的血肉、信息素和脉动着的冰冻碎片制成的、怪诞而亵渎的诱饵。将其"
+"碾碎会释放出浓烈而令人作呕的冻伤腐烂气味，这种气味会强行撕裂空间屏障，将永冻"
+"龙从深渊中拖拽而出。这种气味需要一段时间才能完全弥漫开来。一旦这头掠食者嗅到"
+"气味，它将毫无征兆地扑来，将你撕成碎片。根本无处可逃。准备迎接一场血腥屠杀"
+"吧。"
 
 #: .\items\advtech\sq_frost_tier.json
 msgid "blood-stained surveyor's note"
@@ -5031,25 +5070,6 @@ msgstr[0] "废黄铜捆"
 msgid ""
 "brass scraps, bundled tightly together for storage.  Disassemble to unpack."
 msgstr "废黄铜，紧密捆扎以便储存。拆解以解开。"
-
-#: .\items\item_common\sq_generic.json
-msgid "8x40mm caseless"
-msgid_plural "8x40mm caseless"
-msgstr[0] ""
-
-#. ~ Description for {'str_sp': '8x40mm caseless'}
-#: .\items\item_common\sq_generic.json
-#, fuzzy
-#| msgid ""
-#| "A 40x46mm shell-less, low velocity, dual-purpose high explosive grenade "
-#| "for the Rivtech grenade launcher. It is a shell-less round and cannot be "
-#| "disassembled or reused."
-msgid ""
-"8x40mm caseless rounds.  Proprietary ammunition for Rivtech firearms.  Being "
-"caseless rounds, these cannot be disassembled or reloaded."
-msgstr ""
-"用于Rivtech榴弹发射器的40x46mm无壳低速双用途高爆榴弹。由于是无壳弹，无法拆解"
-"或重复使用。"
 
 #: .\items\item_common\sq_generic.json
 msgid "40x46mm shell-less grenade"
@@ -14971,3 +14991,15 @@ msgstr ""
 #: .\mutations\mutation_category.json
 msgid "snake_coils"
 msgstr ""
+
+#, fuzzy
+#~| msgid ""
+#~| "A 40x46mm shell-less, low velocity, dual-purpose high explosive grenade "
+#~| "for the Rivtech grenade launcher. It is a shell-less round and cannot be "
+#~| "disassembled or reused."
+#~ msgid ""
+#~ "8x40mm caseless rounds.  Proprietary ammunition for Rivtech firearms.  "
+#~ "Being caseless rounds, these cannot be disassembled or reloaded."
+#~ msgstr ""
+#~ "用于Rivtech榴弹发射器的40x46mm无壳低速双用途高爆榴弹。由于是无壳弹，无法拆"
+#~ "解或重复使用。"

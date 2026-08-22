@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Jake's_Squirrel_mod\n"
-"POT-Creation-Date: 2026-08-15 02:18+0900\n"
+"POT-Creation-Date: 2026-08-23 01:33+0900\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -1098,14 +1098,11 @@ msgid "Reflects frostbite onto the attacker."
 msgstr ""
 
 #: .\items\advtech\sq_frost_tier.json
-#, fuzzy
-#| msgid "frozen core"
-#| msgid_plural "frozen cores"
 msgid "frozen shard"
 msgid_plural "frozen shards"
-msgstr[0] "ледяное ядро"
-msgstr[1] "ледяных ядра"
-msgstr[2] "ледяных ядер"
+msgstr[0] "ледяной осколок"
+msgstr[1] "ледяных осколка"
+msgstr[2] "ледяных осколков"
 
 #. ~ Description for {'str': 'frozen shard', 'str_pl': 'frozen shards'}
 #: .\items\advtech\sq_frost_tier.json
@@ -1115,6 +1112,10 @@ msgid ""
 "it came. A crucial component for crafting gear that defies the warmth of "
 "life."
 msgstr ""
+"Зубчатый осколок нетающего льда, пульсирующий некротической энергией. Он "
+"пугающе холоден на ощупь и шепчет о бесконечной зиме, из которой он "
+"появился. Важнейший компонент для создания снаряжения, отвергающего тепло "
+"жизни."
 
 #: .\items\advtech\sq_frost_tier.json
 msgid "frozen core"
@@ -1180,6 +1181,49 @@ msgstr ""
 "где ждет дракон.  (НЕ СОХРАНЯЙТЕ, находясь в карманном измерении. В "
 "противном случае вы навсегда останетесь там. Пожалуйста, отключите функцию "
 "автосохранения.)"
+
+#: .\items\advtech\sq_frost_tier.json
+msgid "permafrost beacon"
+msgid_plural "permafrost beacons"
+msgstr[0] "маяк вечной мерзлоты"
+msgstr[1] "маяка вечной мерзлоты"
+msgstr[2] "маяков вечной мерзлоты"
+
+#. ~ Use action friendly_msg for {'str': 'permafrost beacon', 'str_pl':
+#. 'permafrost beacons'}.
+#: .\items\advtech\sq_frost_tier.json
+msgid "ERROR: THIS SHOULD NOT HAPPEN."
+msgstr "ОШИБКА: ЭТОГО НЕ ДОЛЖНО БЫЛО СЛУЧИТЬСЯ."
+
+#. ~ Use action hostile_msg for {'str': 'permafrost beacon', 'str_pl':
+#. 'permafrost beacons'}.
+#: .\items\advtech\sq_frost_tier.json
+msgid ""
+"You crush the beacon! The sickening scent of frozen decay fills the air, and "
+"the Permafrost Dragon descends in a blinding blizzard!"
+msgstr ""
+"Вы раздавливаете приманку! Тошнотворный запах ледяного разложения наполняет "
+"воздух, и Дракон вечной мерзлоты спускается в ослепительной метели!"
+
+#. ~ Description for {'str': 'permafrost beacon', 'str_pl': 'permafrost
+#. beacons'}
+#: .\items\advtech\sq_frost_tier.json
+msgid ""
+"A grotesque, blasphemous lure crafted from tainted flesh, pheromones, and "
+"pulsating frozen shards. Crushing it unleashes a concentrated, sickening "
+"scent of frostbitten decay that forcefully tears the spatial veil, dragging "
+"the Permafrost Dragon from its abyss. The scent takes time to fully saturate "
+"the air. Once the predator catches the scent, it will descend with absolute "
+"zero hostility to tear you apart. There is no running. Prepare for a "
+"bloodbath."
+msgstr ""
+"Гротескная, богохульная приманка, созданная из зараженной плоти, феромонов и "
+"пульсирующих ледяных осколков. Если ее раздавить, высвобождается "
+"концентрированный, тошнотворный запах обмороженного гниения, который с силой "
+"разрывает пространственную завесу, вытягивая Дракона вечной мерзлоты из его "
+"бездны. Требуется время, чтобы запах полностью насытил воздух. Как только "
+"хищник почует его, он спустится с абсолютной безжалостностью, чтобы "
+"разорвать вас на части. Бежать некуда. Готовьтесь к кровавой бане."
 
 #: .\items\advtech\sq_frost_tier.json
 msgid "blood-stained surveyor's note"
@@ -1736,13 +1780,11 @@ msgstr ""
 "бездонные вещи: леденящая пустота вселенной и клептомания выжившего."
 
 #: .\items\advtech\sq_frost_tier.json
-#, fuzzy
-#| msgid "small frost flare"
 msgid "abyssal frost ring"
 msgid_plural "abyssal frost rings"
-msgstr[0] "Малая ледяная вспышка"
-msgstr[1] "Малая ледяная вспышка"
-msgstr[2] "Малая ледяная вспышка"
+msgstr[0] "кольцо холода бездны"
+msgstr[1] "кольца холода бездны"
+msgstr[2] "колец холода бездны"
 
 #. ~ Description for {'str': 'abyssal frost ring'}
 #: .\items\advtech\sq_frost_tier.json
@@ -1750,15 +1792,15 @@ msgid ""
 "A ring carved entirely from frozen fragments. It emits a faint mist and "
 "protects the wearer from the biting cold. (cold resistance +2)"
 msgstr ""
+"Кольцо, полностью вырезанное из ледяных осколков. Оно испускает легкий туман "
+"и защищает владельца от пронизывающего холода. (сопротивление холоду +2)"
 
 #: .\items\advtech\sq_frost_tier.json
-#, fuzzy
-#| msgid "small frost flare"
 msgid "abyssal frost tiara"
 msgid_plural "abyssal frost tiaras"
-msgstr[0] "Малая ледяная вспышка"
-msgstr[1] "Малая ледяная вспышка"
-msgstr[2] "Малая ледяная вспышка"
+msgstr[0] "тиара холода бездны"
+msgstr[1] "тиары холода бездны"
+msgstr[2] "тиар холода бездны"
 
 #. ~ Description for {'str': 'abyssal frost tiara'}
 #: .\items\advtech\sq_frost_tier.json
@@ -1766,15 +1808,15 @@ msgid ""
 "A delicate yet terrifying tiara woven from frozen fragments. It chills the "
 "brow but acts as a powerful ward against lethal frost. (cold resistance +5)"
 msgstr ""
+"Изящная, но пугающая тиара, сплетенная из ледяных осколков. Она холодит лоб, "
+"но служит мощным оберегом от смертельного мороза. (сопротивление холоду +5)"
 
 #: .\items\advtech\sq_frost_tier.json
-#, fuzzy
-#| msgid "small frost flare"
 msgid "abyssal frost cufflinks"
 msgid_plural "abyssal frost cufflinks"
-msgstr[0] "Малая ледяная вспышка"
-msgstr[1] "Малая ледяная вспышка"
-msgstr[2] "Малая ледяная вспышка"
+msgstr[0] "запонки холода бездны"
+msgstr[1] "запонки холода бездны"
+msgstr[2] "запонок холода бездны"
 
 #. ~ Description for {'str_sp': 'abyssal frost cufflinks'}
 #: .\items\advtech\sq_frost_tier.json
@@ -1782,13 +1824,15 @@ msgid ""
 "Cufflinks made of sheer ice from the abyss. They radiate a protective chill "
 "over the wearer's arms. (cold resistance +3)"
 msgstr ""
+"Запонки, сделанные из чистого льда из бездны. Они излучают защитный холод на "
+"руки владельца. (сопротивление холоду +3)"
 
 #: .\items\advtech\sq_frost_tier.json
 msgid "pair of abyssal frost earrings"
 msgid_plural "pairs of abyssal frost earrings"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "пара серег холода бездны"
+msgstr[1] "пары серег холода бездны"
+msgstr[2] "пар серег холода бездны"
 
 #. ~ Description for {'str': 'pair of abyssal frost earrings', 'str_pl':
 #. 'pairs of abyssal frost earrings'}
@@ -1797,13 +1841,15 @@ msgid ""
 "Earrings crafted from frozen fragments. The cold they emit acts as a shield "
 "against the harsh winter. (cold resistance +2)"
 msgstr ""
+"Серьги, созданные из ледяных осколков. Излучаемый ими холод действует как "
+"щит против суровой зимы. (сопротивление холоду +2)\""
 
 #: .\items\advtech\sq_frost_tier.json
 msgid "abyssal frost pendant necklace"
 msgid_plural "abyssal frost pendant necklaces"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "ожерелье с кулоном холода бездны"
+msgstr[1] "ожерелья с кулоном холода бездны"
+msgstr[2] "ожерелий с кулоном холода бездны"
 
 #. ~ Description for {'str': 'abyssal frost pendant necklace'}
 #: .\items\advtech\sq_frost_tier.json
@@ -1811,10 +1857,12 @@ msgid ""
 "A necklace bearing frozen fragments. Resting close to the heart, it offers "
 "significant protection against extreme cold. (cold resistance +3)"
 msgstr ""
+"Ожерелье с ледяными осколками. Находясь близко к сердцу, оно обеспечивает "
+"значительную защиту от экстремального холода. (сопротивление холоду +3)"
 
 #: .\items\advtech\sq_frost_tier.json
 msgid "Abyssal Chill"
-msgstr ""
+msgstr "Холод бездны"
 
 #. ~ Description for Abyssal Chill
 #: .\items\advtech\sq_frost_tier.json
@@ -1823,13 +1871,16 @@ msgid ""
 "acting as a relentless heat sink. It constantly saps your body heat, leaving "
 "you unnaturally cold."
 msgstr ""
+"Нетающий иней от вашего снаряжения бездны просачивается в самую плоть, "
+"действуя как безжалостный поглотитель тепла. Он постоянно высасывает тепло "
+"вашего тела, делая вас неестественно холодным."
 
 #: .\items\advtech\sq_frost_tier.json
 msgid "glacial plate armor"
 msgid_plural "glacial plate armors"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "ледяная латная броня"
+msgstr[1] "ледяные латные брони"
+msgstr[2] "ледяных латных броней"
 
 #. ~ Description for {'str': 'glacial plate armor'}
 #: .\items\advtech\sq_frost_tier.json
@@ -1838,13 +1889,17 @@ msgid ""
 "steel plates. Unmelting frost clings to its surface. Worn by heretic knights "
 "who rejected the flame, it inflicts bone-chilling agony upon the wearer."
 msgstr ""
+"Массивный тяжелый доспех, выкованный путем заливки расплавленных ледяных "
+"ядер между стальными пластинами. К его поверхности прилип нетающий иней. Его "
+"носят рыцари-еретики, отвергшие пламя, и он причиняет владельцу леденящую до "
+"костей агонию."
 
 #: .\items\advtech\sq_frost_tier.json
 msgid "mantle of the fading fire"
 msgid_plural "mantle of the fading fires"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "мантия угасающего пламени"
+msgstr[1] "мантии угасающего пламени"
+msgstr[2] "мантий угасающего пламени"
 
 #. ~ Description for {'str': 'mantle of the fading fire'}
 #: .\items\advtech\sq_frost_tier.json
@@ -1854,13 +1909,17 @@ msgid ""
 "black darkness. It reflects frostbite onto attackers but constantly saps "
 "your own body heat."
 msgstr ""
+"Соткана из шкур зверей, поглощенных холодом бездны, и пропитана "
+"измельченными фрагментами ледяного ядра. Она рассеивает слабую голубую "
+"метель даже в кромешной тьме. Отражает обморожение на атакующих, но "
+"постоянно высасывает тепло вашего собственного тела."
 
 #: .\items\advtech\sq_frost_tier.json
 msgid "rimebound hunter's garb"
 msgid_plural "rimebound hunter's garbs"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "одеяние скованного инеем охотника"
+msgstr[1] "одеяния скованного инеем охотника"
+msgstr[2] "одеяний скованного инеем охотника"
 
 #. ~ Description for {'str': "rimebound hunter's garb"}
 #: .\items\advtech\sq_frost_tier.json
@@ -1871,13 +1930,18 @@ msgid ""
 "It allows you to blend seamlessly into both the frozen wastes and ruined "
 "cities as a silent predator."
 msgstr ""
+"Одеяние убийцы, сотканное из шкур зимних чудовищ и пропитанное пронизывающим "
+"холодом ледяного ядра. Нетающий иней, цепляющийся за ткань, естественно "
+"искажает силуэт владельца, обеспечивая исключительную маскировку. Это "
+"позволяет вам незаметно сливаться как с ледяными пустошами, так и с "
+"разрушенными городами в качестве безмолвного хищника."
 
 #: .\items\advtech\sq_frost_tier.json
 msgid "crown of the abyssal monarch"
 msgid_plural "crown of the abyssal monarchs"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "корона монарха бездны"
+msgstr[1] "короны монарха бездны"
+msgstr[2] "корон монарха бездны"
 
 #. ~ Description for {'str': 'crown of the abyssal monarch'}
 #: .\items\advtech\sq_frost_tier.json
@@ -1887,6 +1951,10 @@ msgid ""
 "logic of annihilation. However, it leaves the mind dangerously exposed to "
 "nether whispers."
 msgstr ""
+"Гротескный шлем с целым ледяным ядром, встроенным прямо по центру. В тот "
+"момент, когда он надет, человеческий страх и слабость замерзают, оставляя "
+"лишь холодную логику уничтожения. Однако он оставляет разум опасно уязвимым "
+"для шепота из преисподней."
 
 #: .\items\advtech\sq_hardlight_fusion_and_gunmods.json
 msgid "tesla cannon"
@@ -3635,11 +3703,26 @@ msgstr ""
 "из многослойного твердого сплава."
 
 #: .\items\advtech\sq_nano_generic_comp.json
+msgid "Vertigon Attention"
+msgstr "Внимание вертигона"
+
+#. ~ Description for {'str': 'Vertigon Attention'}
+#: .\items\advtech\sq_nano_generic_comp.json
+msgid ""
+"You carry the Vertigon, and the entities from the beyond can smell it. They "
+"fix their eerie, relentless gaze upon you, hungering to tear the stolen "
+"power right out of your flesh."
+msgstr ""
+"Вы несете Вертигон, и сущности извне могут это почуять. Они устремляют на "
+"вас свой жуткий, безжалостный взгляд, жаждая вырвать украденную силу прямо "
+"из вашей плоти."
+
+#: .\items\advtech\sq_nano_generic_comp.json
 msgid "vertigon"
 msgid_plural "vertigons"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "вертигон"
+msgstr[1] "вертигона"
+msgstr[2] "вертигонов"
 
 #. ~ Description for {'str': 'vertigon', 'str_pl': 'vertigons'}
 #: .\items\advtech\sq_nano_generic_comp.json
@@ -3654,6 +3737,16 @@ msgid ""
 "simply by being kept nearby without a shielding barrier. Perhaps these "
 "particles possess a will of their own."
 msgstr ""
+"Это неизвестная масса частиц, обладающая странным свойством — она бросает "
+"вызов земной гравитации и постоянно «падает» в пустоту — и излучает "
+"глубокое, нестабильное аметистово-пурпурное свечение. Даже когда ее просто "
+"держишь в руке, неприятное силовое поле, кажется, тянет ладонь вверх, а "
+"раздражающая нервы легкая вибрация просачивается глубоко в кости. Эта "
+"бледная масса частиц, которую гигантские корпорации считают сердцем "
+"сверхтехнологий, вызывает космическое головокружение, достаточно сильное, "
+"чтобы разорвать полукружные каналы человека, если просто держать ее "
+"поблизости без защитного барьера. Возможно, у этих частиц есть собственная "
+"воля."
 
 #: .\items\advtech\sq_nano_generic_comp.json
 msgid "bundle of layered carbides"
@@ -4217,7 +4310,7 @@ msgstr "Автомобильный верстак с манипулятором"
 
 #: .\items\advtech\sq_vehicle_part.json
 msgid "cargo dimension"
-msgstr "cargo dimension"
+msgstr "габариты груза"
 
 #: .\items\advtech\sq_vehicle_part.json
 msgid "MetalMaster forge buddy"
@@ -4326,10 +4419,8 @@ msgstr ""
 "элементов."
 
 #: .\items\advtech\sq_vehicle_part.json
-#, fuzzy
-#| msgid "cargo dimension"
 msgid "freezer dimension"
-msgstr "cargo dimension"
+msgstr "размеры морозильной камеры"
 
 #: .\items\advtech\sq_vehicle_part.json
 msgid "superfast recharging station"
@@ -4496,7 +4587,7 @@ msgstr ""
 msgid "secret vertigon weapons engineering manual"
 msgid_plural "secret vertigon weapons engineering manuals"
 msgstr[0] "секретное руководство по проектированию оружия из вертигона"
-msgstr[1] "секретных руководства по проектированию оружия из вертигона"
+msgstr[1] "секретные руководства по проектированию оружия из вертигона"
 msgstr[2] "секретных руководств по проектированию оружия из вертигона"
 
 #. ~ Description for {'str': 'secret vertigon weapons engineering manual',
@@ -4510,16 +4601,19 @@ msgid ""
 "components. With the right tools and materials, you could build this "
 "embodiment of dangerous technology yourself."
 msgstr ""
+"Это толстый том в переплете с красной предупреждающей надписью на обложке: "
+"«Несанкционированный доступ строго запрещен». Внутри он плотно забит схемами "
+"сборки передового специализированного огнестрельного оружия, бросающего "
+"вызов здравому смыслу, а также методами производства его основных "
+"компонентов. Имея нужные инструменты и материалы, вы могли бы сами создать "
+"это воплощение опасной технологии."
 
 #: .\items\advtech\sq_vertigon_tier.json
-#, fuzzy
-#| msgid "stabilized portal"
-#| msgid_plural "stabilized portals"
 msgid "overcharged stabilized portal"
 msgid_plural "overcharged stabilized portals"
-msgstr[0] "Перегруженный стабилизированный портал"
-msgstr[1] "Перегруженных стабилизированных портала"
-msgstr[2] "Перегруженных стабилизированных порталов"
+msgstr[0] "перегруженный стабилизированный портал"
+msgstr[1] "перегруженных стабилизированных портала"
+msgstr[2] "перегруженных стабилизированных порталов"
 
 #. ~ Description for {'str': 'overcharged stabilized portal'}
 #: .\items\advtech\sq_vertigon_tier.json
@@ -4528,22 +4622,20 @@ msgid ""
 "with vertigon to withstand massive dimensional pressure, it is incredibly "
 "bulky and heavy, but is capable of swallowing an entire warehouse of loot."
 msgstr ""
+"Индустриальная, сверхмощная версия стабилизированного портала. Усиленный "
+"вертигоном, чтобы выдерживать огромное пространственное давление, он "
+"невероятно громоздок и тяжел, но способен проглотить целый склад добычи."
 
 #: .\items\advtech\sq_vertigon_tier.json
-#, fuzzy
-#| msgid "cargo dimension"
 msgid "dreadnought cargo dimension"
-msgstr "cargo dimension"
+msgstr "Дредноута габариты груза"
 
 #: .\items\advtech\sq_vertigon_tier.json
-#, fuzzy
-#| msgid "stabilized portal"
-#| msgid_plural "stabilized portals"
 msgid "tactical stabilized portal"
 msgid_plural "tactical stabilized portals"
-msgstr[0] "Тактический стабилизированный портал"
-msgstr[1] "Тактических стабилизированных портала"
-msgstr[2] "Тактических стабилизированных порталов"
+msgstr[0] "тактический стабилизированный портал"
+msgstr[1] "тактических стабилизированных портала"
+msgstr[2] "тактических стабилизированных порталов"
 
 #. ~ Description for {'str': 'tactical stabilized portal'}
 #: .\items\advtech\sq_vertigon_tier.json
@@ -4552,23 +4644,21 @@ msgid ""
 "its physical footprint, this tactical portal weighs practically nothing and "
 "can be folded away in an instant."
 msgstr ""
+"Шедевр пространственной инженерии. Благодаря использованию технологии "
+"«вертигон», полностью устраняющей его физические габариты, этот тактический "
+"портал практически ничего не весит и складывается в мгновение ока."
 
 #: .\items\advtech\sq_vertigon_tier.json
-#, fuzzy
-#| msgid "cargo dimension"
 msgid "tactical cargo dimension"
-msgstr "cargo dimension"
+msgstr "тактический габариты груза"
 
 #: .\items\advtech\sq_vertigon_tier.json
 msgid "spatial shimmer"
 msgstr "пространственное мерцание"
 
 #: .\items\advtech\sq_vertigon_tier.json
-#, fuzzy
-#| msgid "dimension stabilizer"
-#| msgid_plural "dimension stabilizers"
 msgid "dimensional tear"
-msgstr "Стабилизатор измерения"
+msgstr "разрыв в пространстве-времени"
 
 #: .\items\advtech\sq_vertigon_tier.json
 msgid "vertigon rupture"
@@ -4589,6 +4679,10 @@ msgid ""
 "potential of the projectile, boasting improved damage and penetration over "
 "conventional rounds."
 msgstr ""
+"Усовершенствованный патрон калибра 9x19 мм +P+, обработанный покрытием "
+"Vertigon, которое практически полностью устраняет трение и сопротивление "
+"воздуха. Он позволяет полностью раскрыть потенциал пули, обеспечивая более "
+"высокий урон и лучшую пробиваемость по сравнению с обычными патронами."
 
 #: .\items\advtech\sq_vertigon_tier.json
 msgid "5.56x45mm VCP"
@@ -4599,21 +4693,16 @@ msgstr[2] "5.56x45мм VCP"
 
 #. ~ Description for {'str': '5.56x45mm VCP'}
 #: .\items\advtech\sq_vertigon_tier.json
-#, fuzzy
-#| msgid ""
-#| "A 5.56x45mm high velocity round with a depleted uranium penetrator that "
-#| "unleashed the full potential of the rifle round. It had improved damage "
-#| "and penetration over the original 5.56mm."
 msgid ""
 "An advanced 5.56x45mm HVP round treated with a vertigon coating that almost "
 "entirely eliminates friction and air resistance. It unleashes the absolute "
 "potential of the projectile, boasting improved damage and penetration over "
 "conventional rounds."
 msgstr ""
-"Высокоскоростной патрон калибра 5,56х45 мм с проникающим элементом из "
-"обедненного урана, раскрывающий весь потенциал винтовочного патрона. По "
-"сравнению с оригинальным 5,56-мм патроном он обладает повышенной поражающей "
-"и проникающей способностью."
+"Усовершенствованный патрон калибра 5,56x45 мм HVP с покрытием Vertigon, "
+"которое практически полностью устраняет трение и сопротивление воздуха. Он "
+"позволяет в полной мере раскрыть потенциал снаряда, обеспечивая более "
+"высокие показатели урона и пробиваемости по сравнению с обычными патронами."
 
 #: .\items\advtech\sq_vertigon_tier.json
 msgid "7.62x51mm VCP"
@@ -4630,6 +4719,11 @@ msgid ""
 "potential of the projectile, boasting improved damage and penetration over "
 "conventional rounds."
 msgstr ""
+"Усовершенствованный патрон калибра 7,62x51 мм HVP с покрытием Vertigon, "
+"которое практически полностью устраняет трение и сопротивление воздуха. Он "
+"позволяет в полной мере раскрыть потенциал снаряда, обеспечивая более "
+"высокую разрушительную силу и пробиваемость по сравнению с обычными "
+"патронами."
 
 #: .\items\advtech\sq_vertigon_tier.json
 msgid ".50 BMG VCP"
@@ -4646,16 +4740,18 @@ msgid ""
 "potential of the projectile, boasting improved damage and penetration over "
 "conventional rounds."
 msgstr ""
+"Усовершенствованный патрон калибра .50 BMG с покрытием Vertigon, которое "
+"практически полностью устраняет трение и сопротивление воздуха. Он позволяет "
+"в полной мере раскрыть потенциал снаряда, обеспечивая более высокую "
+"разрушительную силу и пробивную способность по сравнению с обычными "
+"патронами."
 
 #: .\items\advtech\sq_vertigon_tier.json
-#, fuzzy
-#| msgid "delpleted uranium rail"
-#| msgid_plural "delpleted uranium rails"
 msgid "vertigon coated uranium rail"
 msgid_plural "vertigon coated uranium rails"
-msgstr[0] "Урановый стержень с покрытием из вертигона"
-msgstr[1] "Урановых стержня с покрытием из вертигона"
-msgstr[2] "Урановых стержней с покрытием из вертигона"
+msgstr[0] "урановый стержень с покрытием из вертигона"
+msgstr[1] "урановых стержня с покрытием из вертигона"
+msgstr[2] "урановых стержней с покрытием из вертигона"
 
 #. ~ Description for {'str': 'vertigon coated uranium rail'}
 #: .\items\advtech\sq_vertigon_tier.json
@@ -4688,12 +4784,9 @@ msgstr[1] ""
 msgstr[2] ""
 
 #: .\items\item_common\sq_armor_override.json
-#, fuzzy
-#| msgid "frost blast"
-#| msgid_plural "frost blasts"
 msgid "fur blanket"
 msgid_plural "fur blankets"
-msgstr[0] "Ледяной залп"
+msgstr[0] ""
 msgstr[1] "Ледяных залпа"
 msgstr[2] "Ледяных залпов"
 
@@ -4943,12 +5036,9 @@ msgstr[1] ""
 msgstr[2] ""
 
 #: .\items\item_common\sq_armor_override.json
-#, fuzzy
-#| msgid "winter waker"
-#| msgid_plural "winter wakers"
 msgid "windbreaker"
 msgid_plural "windbreakers"
-msgstr[0] "Пробуждающий зиму"
+msgstr[0] ""
 msgstr[1] "Пробуждающего зиму"
 msgstr[2] "Пробуждающих зиму"
 
@@ -5952,20 +6042,6 @@ msgid ""
 msgstr ""
 
 #: .\items\item_common\sq_generic.json
-msgid "8x40mm caseless"
-msgid_plural "8x40mm caseless"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-
-#. ~ Description for {'str_sp': '8x40mm caseless'}
-#: .\items\item_common\sq_generic.json
-msgid ""
-"8x40mm caseless rounds.  Proprietary ammunition for Rivtech firearms.  Being "
-"caseless rounds, these cannot be disassembled or reloaded."
-msgstr ""
-
-#: .\items\item_common\sq_generic.json
 msgid "40x46mm shell-less grenade"
 msgid_plural "40x46mm shell-less grenades"
 msgstr[0] "40x46mm безгильзовая граната"
@@ -6327,12 +6403,9 @@ msgid ""
 msgstr ""
 
 #: .\items\item_common\sq_mil_armor.json
-#, fuzzy
-#| msgid "'Rampart' assault armor"
-#| msgid_plural "'Rampart' assault armors"
 msgid "6B13 assault armor"
 msgid_plural "6B13 assault armors"
-msgstr[0] "штурмовая силовая броня 'Рампарт'"
+msgstr[0] ""
 msgstr[1] "штурмовые силовые брони 'Рампарт'"
 msgstr[2] "штурмовых силовых броней 'Рампарт'"
 
@@ -6482,12 +6555,9 @@ msgid ""
 msgstr ""
 
 #: .\items\item_common\sq_mil_armor.json
-#, fuzzy
-#| msgid "'Rampart' assault armor"
-#| msgid_plural "'Rampart' assault armors"
 msgid "6B13 M assault armor"
 msgid_plural "6B13 M assault armors"
-msgstr[0] "штурмовая силовая броня 'Рампарт'"
+msgstr[0] ""
 msgstr[1] "штурмовые силовые брони 'Рампарт'"
 msgstr[2] "штурмовых силовых броней 'Рампарт'"
 
@@ -6642,12 +6712,9 @@ msgid ""
 msgstr ""
 
 #: .\items\item_common\sq_mil_armor.json
-#, fuzzy
-#| msgid "Alpha threshold serum"
-#| msgid_plural "Alpha threshold serums"
 msgid "Alpha chest rig"
 msgid_plural "Alpha chest rigs"
-msgstr[0] "Alpha threshold serum"
+msgstr[0] ""
 msgstr[1] "Alpha threshold serums"
 msgstr[2] ""
 

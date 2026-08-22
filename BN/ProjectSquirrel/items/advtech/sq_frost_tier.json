@@ -60,7 +60,7 @@
         "pocket_name": "Frozen Cave",
         "entry_mapgen": "Frozen Cave",
         "need_charges": 0,
-        "persistent": false
+        "persistent": true
       }
     ]
   },
@@ -74,6 +74,48 @@
     "time": "15 m",
     "autolearn": true,
     "components": [ [ [ "sq_frozen_shards", 10 ] ], [ [ "sq_map_fragment_frozen", 10 ] ], [ [ "duct_tape", 5 ], [ "medical_tape", 10 ] ] ]
+  },
+  {
+    "id": "beacon_permafrost_dragon",
+    "type": "TOOL",
+    "name": { "str": "permafrost beacon", "str_pl": "permafrost beacons" },
+    "description": "A grotesque, blasphemous lure crafted from tainted flesh, pheromones, and pulsating frozen shards. Crushing it unleashes a concentrated, sickening scent of frostbitten decay that forcefully tears the spatial veil, dragging the Permafrost Dragon from its abyss. The scent takes time to fully saturate the air. Once the predator catches the scent, it will descend with absolute zero hostility to tear you apart. There is no running. Prepare for a bloodbath.",
+    "weight": "3500 g",
+    "volume": "1000 ml",
+    "price": "0 USD",
+    "price_postapoc": "50 USD",
+    "to_hit": -2,
+    "bashing": 4,
+    "material": [ "powder" ],
+    "symbol": "!",
+    "color": "light_cyan",
+    "use_action": {
+      "type": "place_monster",
+      "monster_id": "mon_dragon_permafrost",
+      "friendly_msg": "ERROR: THIS SHOULD NOT HAPPEN.",
+      "hostile_msg": "You crush the beacon! The sickening scent of frozen decay fills the air, and the Permafrost Dragon descends in a blinding blizzard!",
+      "difficulty": 999,
+      "moves": 500,
+      "place_randomly": true,
+      "skills": [ "fabrication" ]
+    },
+	"flags": [ "ACT_ON_RANGED_HIT", "ALLOWS_REMOTE_USE" ]
+  },
+  {
+    "result": "beacon_permafrost_dragon",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_TOOLS",
+    "skill_used": "fabrication",
+    "difficulty": 5,
+    "time": "40 m",
+    "book_learn": [ [ "sq_recipe_book_frost_melee", 6 ] ],
+    "components": [
+      [ [ "sq_frozen_shards", 10 ] ],
+	  [ [ "pheromone", 1 ] ],
+      [ [ "blood_tainted", 10 ] ],
+      [ [ "meat_tainted", 10 ] ]
+    ]
   },
   {
     "id": "sq_dragon_warning_note",

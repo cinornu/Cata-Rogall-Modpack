@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Jake's_Squirrel_mod\n"
-"POT-Creation-Date: 2026-08-15 21:39+0900\n"
+"POT-Creation-Date: 2026-08-23 01:33+0900\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -942,6 +942,39 @@ msgid ""
 "dimension connected to it will also collapses. (DO NOT SAVE while inside a "
 "pocket dimension. Otherwise, you'll be trapped inside forever. Please turn "
 "off the auto-save.)"
+msgstr ""
+
+#: .\items\advtech\sq_frost_tier.json
+msgid "permafrost beacon"
+msgid_plural "permafrost beacons"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action friendly_msg for {'str': 'permafrost beacon', 'str_pl':
+#. 'permafrost beacons'}.
+#: .\items\advtech\sq_frost_tier.json
+msgid "ERROR: THIS SHOULD NOT HAPPEN."
+msgstr ""
+
+#. ~ Use action hostile_msg for {'str': 'permafrost beacon', 'str_pl':
+#. 'permafrost beacons'}.
+#: .\items\advtech\sq_frost_tier.json
+msgid ""
+"You crush the beacon! The sickening scent of frozen decay fills the air, and"
+" the Permafrost Dragon descends in a blinding blizzard!"
+msgstr ""
+
+#. ~ Description for {'str': 'permafrost beacon', 'str_pl': 'permafrost
+#. beacons'}
+#: .\items\advtech\sq_frost_tier.json
+msgid ""
+"A grotesque, blasphemous lure crafted from tainted flesh, pheromones, and "
+"pulsating frozen shards. Crushing it unleashes a concentrated, sickening "
+"scent of frostbitten decay that forcefully tears the spatial veil, dragging "
+"the Permafrost Dragon from its abyss. The scent takes time to fully saturate"
+" the air. Once the predator catches the scent, it will descend with absolute"
+" zero hostility to tear you apart. There is no running. Prepare for a "
+"bloodbath."
 msgstr ""
 
 #: .\items\advtech\sq_frost_tier.json
@@ -4812,19 +4845,6 @@ msgstr[1] ""
 #: .\items\item_common\sq_generic.json
 msgid ""
 "brass scraps, bundled tightly together for storage.  Disassemble to unpack."
-msgstr ""
-
-#: .\items\item_common\sq_generic.json
-msgid "8x40mm caseless"
-msgid_plural "8x40mm caseless"
-msgstr[0] ""
-msgstr[1] ""
-
-#. ~ Description for {'str_sp': '8x40mm caseless'}
-#: .\items\item_common\sq_generic.json
-msgid ""
-"8x40mm caseless rounds.  Proprietary ammunition for Rivtech firearms.  Being"
-" caseless rounds, these cannot be disassembled or reloaded."
 msgstr ""
 
 #: .\items\item_common\sq_generic.json

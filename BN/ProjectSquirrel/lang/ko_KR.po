@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Jake's_Squirrel_mod\n"
-"POT-Creation-Date: 2026-08-15 21:39+0900\n"
+"POT-Creation-Date: 2026-08-23 01:33+0900\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -1000,6 +1000,46 @@ msgstr ""
 "릴 것입니다. 지도가 파괴되면 연결된 주머니 차원 또한 사라집니다. (절대로 주머"
 "니 차원 내부에서 저장하지 마십시오. 영원히 그 안에 갇히게 됩니다. 자동 저장"
 "을 끄십시오.)"
+
+#: .\items\advtech\sq_frost_tier.json
+msgid "permafrost beacon"
+msgid_plural "permafrost beacons"
+msgstr[0] "퍼마프로스트 미끼"
+
+#. ~ Use action friendly_msg for {'str': 'permafrost beacon', 'str_pl':
+#. 'permafrost beacons'}.
+#: .\items\advtech\sq_frost_tier.json
+msgid "ERROR: THIS SHOULD NOT HAPPEN."
+msgstr "이걸 보고있다면 버그입니다."
+
+#. ~ Use action hostile_msg for {'str': 'permafrost beacon', 'str_pl':
+#. 'permafrost beacons'}.
+#: .\items\advtech\sq_frost_tier.json
+msgid ""
+"You crush the beacon! The sickening scent of frozen decay fills the air, and "
+"the Permafrost Dragon descends in a blinding blizzard!"
+msgstr ""
+"미끼를 으깨버렸습니다! 얼어붙은 부패의 악취가 사방을 채우고, 눈을 멀게 하는 "
+"눈보라와 함께 퍼마프로스트 드래곤이 강림합니다!"
+
+#. ~ Description for {'str': 'permafrost beacon', 'str_pl': 'permafrost
+#. beacons'}
+#: .\items\advtech\sq_frost_tier.json
+msgid ""
+"A grotesque, blasphemous lure crafted from tainted flesh, pheromones, and "
+"pulsating frozen shards. Crushing it unleashes a concentrated, sickening "
+"scent of frostbitten decay that forcefully tears the spatial veil, dragging "
+"the Permafrost Dragon from its abyss. The scent takes time to fully saturate "
+"the air. Once the predator catches the scent, it will descend with absolute "
+"zero hostility to tear you apart. There is no running. Prepare for a "
+"bloodbath."
+msgstr ""
+"오염된 살점, 페로몬, 그리고 고동치는 얼어붙은 파편을 뭉쳐 만든 끔찍하고 불경"
+"스러운 미끼. 이것을 으깨면 동상에 걸려 썩어 들어가는 살점과 같은 지독한 악취"
+"가 뿜어져 나와 공간의 장막을 강제로 찢어버리며 심연에 웅크린 퍼마프로스트 드"
+"래곤을 끌어냅니다. 냄새가 공기 중에 완전히 퍼지는 데는 시간이 걸립니다. 포식"
+"자가 이 냄새를 맡는 순간, 절대영도의 살의를 뿜어내며 당신을 찢어 죽이기 위해 "
+"강림할 것입니다. 도망칠 곳은 없습니다. 피바다를 맞이할 준비를 하십시오."
 
 #: .\items\advtech\sq_frost_tier.json
 msgid "blood-stained surveyor's note"
@@ -5126,18 +5166,6 @@ msgstr ""
 "다."
 
 #: .\items\item_common\sq_generic.json
-msgid "8x40mm caseless"
-msgid_plural "8x40mm caseless"
-msgstr[0] ""
-
-#. ~ Description for {'str_sp': '8x40mm caseless'}
-#: .\items\item_common\sq_generic.json
-msgid ""
-"8x40mm caseless rounds.  Proprietary ammunition for Rivtech firearms.  Being "
-"caseless rounds, these cannot be disassembled or reloaded."
-msgstr ""
-
-#: .\items\item_common\sq_generic.json
 msgid "40x46mm shell-less grenade"
 msgid_plural "40x46mm shell-less grenades"
 msgstr[0] "40x46mm 무탄피 유탄"
@@ -8785,10 +8813,8 @@ msgid "Your %s is very exposed to the cold."
 msgstr ""
 
 #: .\monsters\winter zeds\sq_zed-winter_effects.json
-#, fuzzy
-#| msgid "freezing fog"
 msgid "Freezing"
-msgstr "얼어붙는 안개"
+msgstr ""
 
 #. ~ Description of effect 'Freezing'.
 #: .\monsters\winter zeds\sq_zed-winter_effects.json
@@ -8797,11 +8823,8 @@ msgid "Your %s is dangerously cold!"
 msgstr ""
 
 #: .\monsters\winter zeds\sq_zed-winter_effects.json
-#, fuzzy
-#| msgid "frost nipper"
-#| msgid_plural "frost nippers"
 msgid "Frostnip"
-msgstr "프로스트 니퍼"
+msgstr ""
 
 #. ~ Description of effect 'Frostnip'.
 #: .\monsters\winter zeds\sq_zed-winter_effects.json
@@ -8812,11 +8835,8 @@ msgstr ""
 #.
 #. ~ Speed name of effect(s) 'Frostnip, Frostbite'.
 #: .\monsters\winter zeds\sq_zed-winter_effects.json
-#, fuzzy
-#| msgid "frost biter"
-#| msgid_plural "frost biters"
 msgid "Frostbite"
-msgstr "프로스트 바이터"
+msgstr ""
 
 #. ~ Description of effect 'Frostbite'.
 #: .\monsters\winter zeds\sq_zed-winter_effects.json
