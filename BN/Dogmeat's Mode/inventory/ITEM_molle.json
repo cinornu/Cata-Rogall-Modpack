@@ -20,8 +20,8 @@
       "min_volume": "1 ml",
       "max_volume": "10000 ml",
       "draw_cost": 200,
-      "flags": [ "MOLLE", "SHEATH_KNIFE", "SHEATH_SWORD", "SHEATH_AXE", "SHEATH_SPEAR", "MAG_COMPACT", "MAG_BULKY", "SPEEDLOADER"  ],
-	  "skills": [ "archery" ]
+      "flags": [ "MOLLE", "SHEATH_KNIFE", "SHEATH_SWORD", "SHEATH_AXE", "SHEATH_SPEAR", "MAG_COMPACT", "MAG_BULKY", "SPEEDLOADER" ],
+      "skills": [ "archery" ]
     }
   },
   {
@@ -37,8 +37,18 @@
       "min_volume": "1 ml",
       "max_volume": "10000 ml",
       "draw_cost": 200,
-      "flags": [ "MOLLE", "BELT_CLIP", "SHEATH_KNIFE", "SHEATH_SWORD", "SHEATH_AXE", "SHEATH_SPEAR", "MAG_COMPACT", "MAG_BULKY", "SPEEDLOADER"  ],
-	  "skills": [ "archery" ]
+      "flags": [
+        "MOLLE",
+        "BELT_CLIP",
+        "SHEATH_KNIFE",
+        "SHEATH_SWORD",
+        "SHEATH_AXE",
+        "SHEATH_SPEAR",
+        "MAG_COMPACT",
+        "MAG_BULKY",
+        "SPEEDLOADER"
+      ],
+      "skills": [ "archery" ]
     }
   },
   {
@@ -55,8 +65,8 @@
       "min_volume": "1 ml",
       "max_volume": "10000 ml",
       "draw_cost": 200,
-      "flags": [ "MOLLE", "SHEATH_KNIFE", "SHEATH_SWORD", "SHEATH_AXE", "SHEATH_SPEAR", "MAG_COMPACT", "MAG_BULKY", "SPEEDLOADER"  ],
-	  "skills": [ "archery" ]
+      "flags": [ "MOLLE", "SHEATH_KNIFE", "SHEATH_SWORD", "SHEATH_AXE", "SHEATH_SPEAR", "MAG_COMPACT", "MAG_BULKY", "SPEEDLOADER" ],
+      "skills": [ "archery" ]
     }
   },
   {
@@ -88,8 +98,8 @@
       "min_volume": "1 ml",
       "max_volume": "10000 ml",
       "draw_cost": 200,
-      "flags": [ "MOLLE", "SHEATH_KNIFE", "SHEATH_SWORD", "SHEATH_AXE", "SHEATH_SPEAR", "MAG_COMPACT", "MAG_BULKY", "SPEEDLOADER"  ],
-	  "skills": [ "archery" ]
+      "flags": [ "MOLLE", "SHEATH_KNIFE", "SHEATH_SWORD", "SHEATH_AXE", "SHEATH_SPEAR", "MAG_COMPACT", "MAG_BULKY", "SPEEDLOADER" ],
+      "skills": [ "archery" ]
     }
   },
   {
@@ -105,8 +115,8 @@
       "min_volume": "1 ml",
       "max_volume": "10000 ml",
       "draw_cost": 200,
-      "flags": [ "MOLLE", "SHEATH_KNIFE", "SHEATH_SWORD", "SHEATH_AXE", "SHEATH_SPEAR", "MAG_COMPACT", "MAG_BULKY", "SPEEDLOADER"  ],
-	  "skills": [ "archery" ]
+      "flags": [ "MOLLE", "SHEATH_KNIFE", "SHEATH_SWORD", "SHEATH_AXE", "SHEATH_SPEAR", "MAG_COMPACT", "MAG_BULKY", "SPEEDLOADER" ],
+      "skills": [ "archery" ]
     }
   },
   {
@@ -122,8 +132,8 @@
       "min_volume": "1 ml",
       "max_volume": "10000 ml",
       "draw_cost": 200,
-      "flags": [ "MOLLE", "SHEATH_KNIFE", "SHEATH_SWORD", "SHEATH_AXE", "SHEATH_SPEAR", "MAG_COMPACT", "MAG_BULKY", "SPEEDLOADER"  ],
-	  "skills": [ "archery" ]
+      "flags": [ "MOLLE", "SHEATH_KNIFE", "SHEATH_SWORD", "SHEATH_AXE", "SHEATH_SPEAR", "MAG_COMPACT", "MAG_BULKY", "SPEEDLOADER" ],
+      "skills": [ "archery" ]
     },
     "flags": [ "WATER_FRIENDLY", "STURDY", "BELTED" ]
   },
@@ -206,7 +216,7 @@
   },
   {
     "id": "legpouch_large",
-	"type": "ARMOR",
+    "type": "ARMOR",
     "name": { "str": "leg ammo pouch", "str_pl": "leg ammo pouches" },
     "copy-from": "legpouch_large",
     "extend": { "flags": [ "MOLLE" ] }

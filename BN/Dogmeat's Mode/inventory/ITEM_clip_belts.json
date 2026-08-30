@@ -74,15 +74,15 @@
     "name": { "str": "survivor belt" },
     "copy-from": "survivor_belt_notools",
     "use_action": {
-        "type": "holster",
-        "holster_prompt": "Attach what to holder?",
-        "holster_msg": "You attach your %s to your %s.",
-        "multi": 8,
-        "draw_cost": 3,
-        "min_volume": "1 ml",
-        "max_volume": "2000 ml",
-        "flags": [ "BELT_CLIP", "SHEATH_KNIFE", "SHEATH_SWORD", "SHEATH_AXE", "SHEATH_SPEAR" ]
-      }
+      "type": "holster",
+      "holster_prompt": "Attach what to holder?",
+      "holster_msg": "You attach your %s to your %s.",
+      "multi": 8,
+      "draw_cost": 3,
+      "min_volume": "1 ml",
+      "max_volume": "2000 ml",
+      "flags": [ "BELT_CLIP", "SHEATH_KNIFE", "SHEATH_SWORD", "SHEATH_AXE", "SHEATH_SPEAR" ]
+    }
   },
   {
     "id": "tool_belt",

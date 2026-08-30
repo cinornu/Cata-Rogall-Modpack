@@ -5,15 +5,15 @@
     "name": { "str": "survivor firesuit" },
     "copy-from": "fsurvivor_suit",
     "use_action": {
-        "type": "holster",
-        "holster_prompt": "Attach what to holder?",
-        "holster_msg": "You attach your %s to your %s.",
-        "multi": 4,
-        "draw_cost": 100,
-        "min_volume": "1 ml",
-        "max_volume": "500 ml",
-        "flags": [ "BELT_CLIP" ]
-      }
+      "type": "holster",
+      "holster_prompt": "Attach what to holder?",
+      "holster_msg": "You attach your %s to your %s.",
+      "multi": 4,
+      "draw_cost": 100,
+      "min_volume": "1 ml",
+      "max_volume": "500 ml",
+      "flags": [ "BELT_CLIP" ]
+    }
   },
   {
     "id": "hsurvivor_suit",
@@ -21,15 +21,15 @@
     "name": { "str": "heavy survivor suit" },
     "copy-from": "hsurvivor_suit",
     "use_action": {
-        "type": "holster",
-        "holster_prompt": "Attach what to holder?",
-        "holster_msg": "You attach your %s to your %s.",
-        "multi": 4,
-        "draw_cost": 100,
-        "min_volume": "1 ml",
-        "max_volume": "500 ml",
-        "flags": [ "BELT_CLIP" ]
-      }
+      "type": "holster",
+      "holster_prompt": "Attach what to holder?",
+      "holster_msg": "You attach your %s to your %s.",
+      "multi": 4,
+      "draw_cost": 100,
+      "min_volume": "1 ml",
+      "max_volume": "500 ml",
+      "flags": [ "BELT_CLIP" ]
+    }
   },
   {
     "id": "sasurvivor_suit",
@@ -37,15 +37,15 @@
     "name": { "str": "superalloy survivor suit" },
     "copy-from": "sasurvivor_suit",
     "use_action": {
-        "type": "holster",
-        "holster_prompt": "Attach what to holder?",
-        "holster_msg": "You attach your %s to your %s.",
-        "multi": 4,
-        "draw_cost": 100,
-        "min_volume": "1 ml",
-        "max_volume": "500 ml",
-        "flags": [ "BELT_CLIP" ]
-      }
+      "type": "holster",
+      "holster_prompt": "Attach what to holder?",
+      "holster_msg": "You attach your %s to your %s.",
+      "multi": 4,
+      "draw_cost": 100,
+      "min_volume": "1 ml",
+      "max_volume": "500 ml",
+      "flags": [ "BELT_CLIP" ]
+    }
   },
   {
     "id": "lsurvivor_suit",
@@ -53,15 +53,15 @@
     "name": { "str": "light survivor suit" },
     "copy-from": "lsurvivor_suit",
     "use_action": {
-        "type": "holster",
-        "holster_prompt": "Attach what to holder?",
-        "holster_msg": "You attach your %s to your %s.",
-        "multi": 4,
-        "draw_cost": 100,
-        "min_volume": "1 ml",
-        "max_volume": "500 ml",
-        "flags": [ "BELT_CLIP" ]
-      }
+      "type": "holster",
+      "holster_prompt": "Attach what to holder?",
+      "holster_msg": "You attach your %s to your %s.",
+      "multi": 4,
+      "draw_cost": 100,
+      "min_volume": "1 ml",
+      "max_volume": "500 ml",
+      "flags": [ "BELT_CLIP" ]
+    }
   },
   {
     "id": "survivor_suit",
@@ -69,15 +69,15 @@
     "name": { "str": "survivor suit" },
     "copy-from": "survivor_suit",
     "use_action": {
-        "type": "holster",
-        "holster_prompt": "Attach what to holder?",
-        "holster_msg": "You attach your %s to your %s.",
-        "multi": 4,
-        "draw_cost": 100,
-        "min_volume": "1 ml",
-        "max_volume": "500 ml",
-        "flags": [ "BELT_CLIP" ]
-      }
+      "type": "holster",
+      "holster_prompt": "Attach what to holder?",
+      "holster_msg": "You attach your %s to your %s.",
+      "multi": 4,
+      "draw_cost": 100,
+      "min_volume": "1 ml",
+      "max_volume": "500 ml",
+      "flags": [ "BELT_CLIP" ]
+    }
   },
   {
     "id": "h20survivor_suit",
@@ -85,15 +85,15 @@
     "name": { "str": "survivor wetsuit" },
     "copy-from": "h20survivor_suit",
     "use_action": {
-        "type": "holster",
-        "holster_prompt": "Attach what to holder?",
-        "holster_msg": "You attach your %s to your %s.",
-        "multi": 4,
-        "draw_cost": 100,
-        "min_volume": "1 ml",
-        "max_volume": "500 ml",
-        "flags": [ "BELT_CLIP" ]
-      }
+      "type": "holster",
+      "holster_prompt": "Attach what to holder?",
+      "holster_msg": "You attach your %s to your %s.",
+      "multi": 4,
+      "draw_cost": 100,
+      "min_volume": "1 ml",
+      "max_volume": "500 ml",
+      "flags": [ "BELT_CLIP" ]
+    }
   },
   {
     "id": "pants_army",
@@ -102,15 +102,15 @@
     "name": { "str_sp": "army pants" },
     "copy-from": "pants_army",
     "use_action": {
-        "type": "holster",
-        "holster_prompt": "Attach what to holder?",
-        "holster_msg": "You attach your %s to your %s.",
-        "multi": 2,
-        "draw_cost": 100,
-        "min_volume": "1 ml",
-        "max_volume": "500 ml",
-        "flags": [ "BELT_CLIP" ]
-      }
+      "type": "holster",
+      "holster_prompt": "Attach what to holder?",
+      "holster_msg": "You attach your %s to your %s.",
+      "multi": 2,
+      "draw_cost": 100,
+      "min_volume": "1 ml",
+      "max_volume": "500 ml",
+      "flags": [ "BELT_CLIP" ]
+    }
   },
   {
     "id": "pants_cargo",
@@ -118,15 +118,15 @@
     "name": { "str_sp": "cargo pants" },
     "copy-from": "pants_cargo",
     "use_action": {
-        "type": "holster",
-        "holster_prompt": "Attach what to holder?",
-        "holster_msg": "You attach your %s to your %s.",
-        "multi": 2,
-        "draw_cost": 100,
-        "min_volume": "1 ml",
-        "max_volume": "500 ml",
-        "flags": [ "BELT_CLIP" ]
-      }
+      "type": "holster",
+      "holster_prompt": "Attach what to holder?",
+      "holster_msg": "You attach your %s to your %s.",
+      "multi": 2,
+      "draw_cost": 100,
+      "min_volume": "1 ml",
+      "max_volume": "500 ml",
+      "flags": [ "BELT_CLIP" ]
+    }
   },
   {
     "id": "postman_shorts",
@@ -135,14 +135,14 @@
     "name": { "str_sp": "mail carrier shorts" },
     "copy-from": "postman_shorts",
     "use_action": {
-        "type": "holster",
-        "holster_prompt": "Attach what to holder?",
-        "holster_msg": "You attach your %s to your %s.",
-        "multi": 2,
-        "draw_cost": 100,
-        "min_volume": "1 ml",
-        "max_volume": "500 ml",
-        "flags": [ "BELT_CLIP" ]
-      }
+      "type": "holster",
+      "holster_prompt": "Attach what to holder?",
+      "holster_msg": "You attach your %s to your %s.",
+      "multi": 2,
+      "draw_cost": 100,
+      "min_volume": "1 ml",
+      "max_volume": "500 ml",
+      "flags": [ "BELT_CLIP" ]
+    }
   }
 ]
